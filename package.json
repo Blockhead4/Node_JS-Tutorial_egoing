@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Blockhead4/Node_JS-Tutorial_egoing#readme",
   "dependencies": {
-    "sanitize-html": "^1.20.1"
+    "sanitize-html": "^2.3.2"
   }
 }
